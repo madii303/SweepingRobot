@@ -4,7 +4,6 @@
 #include <stdlib.h>
 #include <time.h>
 
-#include <webots/distance_sensor.h>
 #include <webots/motor.h>
 #include <webots/position_sensor.h>
 #include <webots/receiver.h>
